@@ -1,0 +1,22 @@
+body{
+    color: #333333;
+    font-family: 'Crimson Pro', serif;
+}
+
+h1{
+    background-image: url(/img/sobre-background.jpg);
+}
+h2{
+    border-bottom: 2px  groove #000000;
+}
+figure{
+    background-color: #e6e6e6;
+    border: 1px solid #ccc;
+    text-align: center;
+
+}
+
+figcaption{
+    font-style: italic;
+    
+}
